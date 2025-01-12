@@ -29,8 +29,8 @@
 
 ## Follow me
 
-[![VK](https://img.shields.io/badge/VK%20JS-1D1616?style=for-the-badge&logo=vk&logoColor=476f95)](https://vk.com/anavoytsev)
-[![Telegram](https://img.shields.io/badge/VK%20JS-1D1616?style=for-the-badge&logo=telegram&logoColor=43b0f1)](https://t.me/NANDRYsZ)
+[![VK](https://img.shields.io/badge/VK-1D1616?style=for-the-badge&logo=vk&logoColor=476f95)](https://vk.com/anavoytsev)
+[![Telegram](https://img.shields.io/badge/Telegram-1D1616?style=for-the-badge&logo=telegram&logoColor=43b0f1)](https://t.me/NANDRYsZ)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NANDRYS&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
