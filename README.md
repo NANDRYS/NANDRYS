@@ -18,7 +18,12 @@
 
 ## Languages and Tools
 
-![CSS](https://img.shields.io/badge/CSS-A6CDC6?style=for-the-badge&logo=css)
+![CSS](https://img.shields.io/badge/CSS-1D1616?style=for-the-badge&logo=css&logoColor=80C4E9)
+![JavaScript](https://img.shields.io/badge/JavaScript-1D1616?style=for-the-badge&logo=javaScript&logoColor=ECE852)
+![HTML](https://img.shields.io/badge/HTML-1D1616?style=for-the-badge&logo=html&logoColor=FB4141)
+![PHP](https://img.shields.io/badge/PHP-1D1616?style=for-the-badge&logo=php&logoColor=500073)
+![ReactJS](https://img.shields.io/badge/React%20JS-1D1616?style=for-the-badge&logo=react&logoColor=C890A7)
+
 <!--
 **NANDRYS/NANDRYS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
