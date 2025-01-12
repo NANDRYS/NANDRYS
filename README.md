@@ -1,4 +1,5 @@
-[![HEADER](https://github.com/NANDRYS/NANDRYS/blob/main/assets/react_red.gif)](https://react.dev/)
+<!-- [![HEADER](https://github.com/NANDRYS/NANDRYS/blob/main/assets/react_red.gif)](https://react.dev/) -->
+![HEADER](https://github.com/NANDRYS/NANDRYS/blob/main/assets/night_sky.gif)
 
 
 ## About me
