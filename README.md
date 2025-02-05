@@ -46,13 +46,13 @@
 ## Мои проекты
 
  Я пока не выставлял свои проекты на всеобщие осмотрение. Пожалуйста, подождите пока я буду готов😊... 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NANDRYS&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-=======
+
+## Контакты 
 [![VK](https://img.shields.io/badge/VK-1D1616?style=for-the-badge&logo=vk&logoColor=476f95)](https://vk.com/anavoytsev)
 [![Telegram](https://img.shields.io/badge/Telegram-1D1616?style=for-the-badge&logo=telegram&logoColor=43b0f1)](https://t.me/NANDRYsZ)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NANDRYS&show_icons=true)](https://github.com/NANDRYS/github-readme-stats)
->>>>>>> df551ddc45e5a2968c3606824201c1aa230e043f
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NANDRYS&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **NANDRYS/NANDRYS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
