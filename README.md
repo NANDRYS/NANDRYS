@@ -34,10 +34,7 @@
 ![TailwindCss](https://img.shields.io/badge/Tailwind%20Css-1D1616?style=for-the-badge&logo=tailwindCss&logoColor=3498db)
 ![ReactJS](https://img.shields.io/badge/React%20JS-1D1616?style=for-the-badge&logo=react&logoColor=C890A7)
 
-## Follow me
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 ## Интересы
 
 В свободное время я стараюсь изучать что-то новое, постоянно делать какие-либо открытия для себя и практиковаться. Также ко мне обращаются за помощью студенты из онлайн школы программирования IT-Park, которым я никогда не отказываю и помогаю развиваться, указывая на их ошибки и предоставляя дополнительную информацию о том, какими способами можно решить их проблему. 
