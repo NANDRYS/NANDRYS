@@ -30,9 +30,13 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-1D1616?style=for-the-badge&logo=bootstrap&logoColor=9e45f7)
 ![HTML](https://img.shields.io/badge/HTML-1D1616?style=for-the-badge&logo=html5&logoColor=FB4141)
 ![PHP](https://img.shields.io/badge/PHP-1D1616?style=for-the-badge&logo=php&logoColor=500073)
+![SASS](https://img.shields.io/badge/SASS-1D1616?style=for-the-badge&logo=sass&logoColor=fb6f92)
+![TailwindCss](https://img.shields.io/badge/Tailwind%20Css-1D1616?style=for-the-badge&logo=tailwindCss&logoColor=3498db)
 ![ReactJS](https://img.shields.io/badge/React%20JS-1D1616?style=for-the-badge&logo=react&logoColor=C890A7)
 
+## Follow me
 
+<<<<<<< HEAD
 ## Интересы
 
 В свободное время я стараюсь изучать что-то новое, постоянно делать какие-либо открытия для себя и практиковаться. Также ко мне обращаются за помощью студенты из онлайн школы программирования IT-Park, которым я никогда не отказываю и помогаю развиваться, указывая на их ошибки и предоставляя дополнительную информацию о том, какими способами можно решить их проблему. 
@@ -43,6 +47,12 @@
 
  Я пока не выставлял свои проекты на всеобщие осмотрение. Пожалуйста, подождите пока я буду готов😊... 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NANDRYS&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+=======
+[![VK](https://img.shields.io/badge/VK-1D1616?style=for-the-badge&logo=vk&logoColor=476f95)](https://vk.com/anavoytsev)
+[![Telegram](https://img.shields.io/badge/Telegram-1D1616?style=for-the-badge&logo=telegram&logoColor=43b0f1)](https://t.me/NANDRYsZ)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NANDRYS&show_icons=true)](https://github.com/NANDRYS/github-readme-stats)
+>>>>>>> df551ddc45e5a2968c3606824201c1aa230e043f
 <!--
 **NANDRYS/NANDRYS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
